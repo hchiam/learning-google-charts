@@ -1,6 +1,8 @@
-# Learning template [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://github.com/hchiam/learning-template/blob/main/LICENSE)
+# Learning [Google Charts](https://developers.google.com/chart)
 
 Just one of the things I'm learning. https://github.com/hchiam/learning
+
+https://developers.google.com/chart
 
 (To use this template fast with [`gh` CLI](https://github.com/hchiam/learning-gh), you can run [`gh repo create --template learning-template learning-...`](https://cli.github.com/manual/gh_repo_create) or [set up a custom shortcut CLI command](https://github.com/hchiam/learning-bash-scripts/blob/main/gh-cli-create-learning-repo-from-template.sh).)
 
